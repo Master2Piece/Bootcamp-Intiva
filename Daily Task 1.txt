@@ -1,0 +1,11 @@
+1. Apa itu tipe data dalam pemrograman?
+Tipe data adalah klarifikasi data yang mengenalkan kompilator atau penerjemah bagaimana
+programmer bermaksud untuk menggunakan data
+2. Sebutkan 5 contoh tipe data dalam pemrograman?
+Integer, Float, String, Char, Boolean
+3. Apa itu Aritmatika?
+Aritmatika merupakan cabang matematika dalam melakukan operasi dasar dari bilangan
+(Penjumlahan, Pengurangan, Perkalian dan Pembagian)
+*4. Bagaimana implementasi aritmatika dalam bahasa pemrograman php?
+*5. Bagaimana menampilkan output dalam php?
+ *)Dikerjakan dalam bentuk file code
